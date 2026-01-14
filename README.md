@@ -9,3 +9,4 @@
 🌟 Meu grande objetivo é me tornar um desenvolvedor criativo e versátil, capaz de transformar ideias em soluções inovadoras por meio da programação.
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=8&theme=dracula" style="width: 45%; height: 200px; object-fit: contain;" />
