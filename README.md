@@ -9,4 +9,4 @@
 🌟 Meu grande objetivo é me tornar um desenvolvedor criativo e versátil, capaz de transformar ideias em soluções inovadoras por meio da programação.
 
 ---
- <img src="https://github-readme-stats.vercel.app/api?username=jotagerochaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="width: 50%; height: 200px; object-fit: contain;" />
+
